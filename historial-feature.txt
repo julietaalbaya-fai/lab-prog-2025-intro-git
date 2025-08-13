@@ -1,0 +1,4 @@
+* 597f15e (HEAD -> feature/concurrencia-en-java, origin/feature/concurrencia-en-java) Agregar ejemplo funcional de semáforo en Java
+* 865bf48 (origin/main, origin/HEAD, main) Agregar sección Guía de Uso de semáforos
+* 26b24fe Agregar sección Introducción sobre semáforos
+* d44dc1b Agregar archivo concurrenciaEnJava.md
