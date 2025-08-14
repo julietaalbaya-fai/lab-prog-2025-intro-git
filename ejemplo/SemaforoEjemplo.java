@@ -3,7 +3,7 @@ package ejemplo;
 import java.util.concurrent.Semaphore;
 
 public class SemaforoEjemplo {
-
+    //emma estuvo aqui 
     private static final Semaphore semaforo = new Semaphore(2);
 
     public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class SemaforoEjemplo {
             new Thread(() -> tarea(id)).start();
         }
     }
-
+    //LALALALALALA
     private static void tarea(int id) {
         try {
             System.out.println("Hilo " + id + " esperando permiso...");
